@@ -39,3 +39,10 @@ Here’s a preview of the scraped data stored in the CSV:
 - Python
 - BeautifulSoup
 - Requests
+
+## 👤 Author
+
+**Muhammad Umer Haider**  
+Data Analyst | Software Engineer  
+📧 Email: [umer.haider0002@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-umer-haider-933913213/)
